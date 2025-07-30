@@ -1,4 +1,6 @@
 # Pluralsight - Secure coding with Github Copilot
+https://app.pluralsight.com/library/courses/secure-development-github-copilot/table-of-contents
+
 
 1. GitHub Copilot security prompt - agent mode - Claude model
 ![1. GitHub Copilot security prompt - agent mode - Claude model.png](1.%20GitHub%20Copilot%20security%20prompt%20-%20agent%20mode%20-%20Claude%20model.png)
