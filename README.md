@@ -5,6 +5,7 @@ https://app.pluralsight.com/library/courses/secure-development-github-copilot/ta
 1. GitHub Copilot security prompt - agent mode - Claude model
 ![1. GitHub Copilot security prompt - agent mode - Claude model.png](1.%20GitHub%20Copilot%20security%20prompt%20-%20agent%20mode%20-%20Claude%20model.png)
 
+> @workspace Evaluate the current project and check in which ways the code is susceptible to one of the OWASP top 10 well-known mistakes made in programming applications, and suggest fixes. Ensure the application keeps functioning as it does at the moment.
 
 2. GitHub Copilot copilot-instructions.md - secure code
 ![2. GitHub Copilot copilot-instructions.md - secure code.png](2.%20GitHub%20Copilot%20copilot-instructions.md%20-%20secure%20code.png)
